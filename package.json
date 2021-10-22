@@ -1,0 +1,14 @@
+{
+  "name": "webhook-rebot",
+  "version": "1.0.7",
+  "description": "webhook工具",
+  "main": "index.js",
+  "bin": {
+    "webhook-rebot": "bin/webhook-rebot"
+  },
+  "author": "luokai",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
